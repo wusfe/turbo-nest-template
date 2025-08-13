@@ -1,0 +1,18 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "errno": -4048,
+    "code": "EPERM",
+    "syscall": "symlink",
+    "path": "C:\\Users\\wujie\\AppData\\Local\\pnpm\\nodejs\\21.1.0\\node.exe",
+    "dest": "C:\\Users\\wujie\\AppData\\Local\\pnpm\\node.exe",
+    "err": {
+      "name": "pnpm",
+      "message": "EPERM: operation not permitted, symlink 'C:\\Users\\wujie\\AppData\\Local\\pnpm\\nodejs\\21.1.0\\node.exe' -> 'C:\\Users\\wujie\\AppData\\Local\\pnpm\\node.exe'",
+      "code": "EPERM",
+      "stack": "pnpm: EPERM: operation not permitted, symlink 'C:\\Users\\wujie\\AppData\\Local\\pnpm\\nodejs\\21.1.0\\node.exe' -> 'C:\\Users\\wujie\\AppData\\Local\\pnpm\\node.exe'"
+    }
+  }
+}
