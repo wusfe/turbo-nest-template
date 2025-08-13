@@ -1,3 +1,7 @@
+# 运行dokcer镜像
+
+docker-compose up --build -d
+
 # Turborepo starter
 
 This Turborepo starter is maintained by the Turborepo core team.
